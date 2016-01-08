@@ -1,7 +1,7 @@
 package lib;
 
 public class Test2{
-	public String s = "¡£¡£¡£²âÊÔ¡£¡£¡£";
+	public String s = "ã€‚ã€‚ã€‚æµ‹è¯•ã€‚ã€‚ã€‚";
 	public String toString(){
 		return s;
 	}
